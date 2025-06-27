@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: fencingbot-web
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"  # oder main.py, je nach deinem Dateinamen
+    plan: free
