@@ -27,7 +27,7 @@ CHANNEL_ID = int(CHANNEL_ID_STR)
 # YouTube-Kanäle
 YOUTUBE_FEEDS = {
     "Olympic Foil":
-    "https://www.youtube.com/feeds/videos.xml?channel_id=UCCT4FI5gT5_uXuUdWZ_M8MQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCmtALz8yYLoSIy6LkXs-h0w",
     "FIE Fencing":
     "https://www.youtube.com/feeds/videos.xml?channel_id=UCJEy8aBnqDymMIcJCh72gMw"
 }
